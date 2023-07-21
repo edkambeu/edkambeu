@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edson Kambeu
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning R, Python, JavaScript, SQL, HTML and CSS 
+- 🌱 I am interested in R, Python, JavaScript, SQL, HTML and CSS 
 - 💞️ I’m looking to collaborate on any data science and machine learning related projects
 - 📫 You can reach me on my email edkambeu@gmail.com
 
